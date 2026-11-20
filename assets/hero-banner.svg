@@ -33,15 +33,10 @@
   <rect x="2" y="2" width="996" height="296" rx="15" fill="none" stroke="#30363D" stroke-width="2"/>
 
   <!-- Left: Identity & Metrics -->
-  <rect x="38" y="30" width="242" height="28" rx="14" fill="rgba(11,59,46,0.88)" stroke="#4ADE80" stroke-width="1.2"/>
-  <circle cx="56" cy="44" r="5" fill="#4ADE80">
-    <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite"/>
-  </circle>
-  <text x="70" y="48" font-family="ui-monospace, Menlo, monospace" font-size="11" font-weight="700" fill="#F3EFE6">OPEN TO DATA &amp; FULL-STACK ROLES</text>
-
-  <text x="38" y="106" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="42" font-weight="800" fill="#FFFFFF" letter-spacing="-1">Yuda Farid Habibie.</text>
-  <text x="38" y="138" font-family="ui-monospace, Menlo, monospace" font-size="14.5" font-weight="700" fill="#FDE68A">Data Analyst • Workflow Automation • Full-Stack</text>
-  <text x="38" y="164" font-family="-apple-system, sans-serif" font-size="13.5" fill="#D6D3D1">B.Sc. Informatics (GPA 3.78) | Ex-IDX &amp; PT Bayer Indonesia</text>
+  <text x="38" y="54" font-family="ui-monospace, Menlo, monospace" font-size="12" font-weight="700" fill="#C94A29" letter-spacing="1.4">DATA ANALYST  •  WORKFLOW AUTOMATION  •  FULL-STACK</text>
+  <text x="38" y="106" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="46" font-weight="800" fill="#FFFFFF" letter-spacing="-1">Yuda Farid Habibie.</text>
+  <text x="38" y="142" font-family="-apple-system, sans-serif" font-size="14.5" fill="#D6D3D1">B.Sc. Informatics (GPA 3.78/4.00)  |  Ex-IDX &amp; PT Bayer Indonesia</text>
+  <text x="38" y="166" font-family="ui-monospace, Menlo, monospace" font-size="12.5" fill="#FDE68A">Turning operational data &amp; manual workflows into clean BI &amp; web products.</text>
 
   <g transform="translate(38, 192)">
     <rect x="0" y="0" width="132" height="44" rx="8" fill="#0B3B2E" stroke="#4ADE80" stroke-width="1.2"/>
