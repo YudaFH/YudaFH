@@ -24,7 +24,7 @@
 
 ---
 
-### Flagship Products *(Animated Live Preview)*
+### Flagship Products
 
 <div align="center">
   <a href="https://yudafh.vercel.app/#proyek">
@@ -48,7 +48,7 @@
 
 ---
 
-### Interactive Experience & Impact *(Click to Expand)*
+### Interactive Experience & Impact
 
 <details>
 <summary><strong>1. Bursa Efek Indonesia (IDX) — Market Development Intern (Jul 2026 – Present)</strong></summary>
