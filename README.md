@@ -1,18 +1,11 @@
 <div align="center">
 
-<!-- Animated Custom SVG Hero Card -->
+<!-- 1. Custom Animated SVG Hero + Live Terminal -->
 <a href="https://yudafh.vercel.app/">
   <img src="./assets/hero-banner.svg" width="100%" alt="Yuda Farid Habibie — Data Analyst, Workflow Automation & Full-Stack Developer" />
 </a>
 
 <br/><br/>
-
-<!-- Animated Typing Subheadline -->
-<a href="https://yudafh.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2600&pause=850&color=C94A29&center=true&vCenter=true&width=720&lines=Audited+15+IDX+Representative+Offices+%26+Built+React%2FPython+Dashboards;Automated+PT+Bayer+Excel+VBA+Logsheets+(Saved+20-30+min%2Fshift);Shipped+Sahamara+SaaS%2C+PintuAcara+QR+Ticketing+%26+LungSphere+AI" alt="Typing Animation" />
-</a>
-
-<br/>
 
 [![Interactive Portfolio](https://img.shields.io/badge/Interactive_Portfolio-yudafh.vercel.app-0B3B2E?style=for-the-badge&logo=vercel&logoColor=FDE047)](https://yudafh.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuda-farid-habibie-43201a352)
@@ -23,9 +16,41 @@
 
 ---
 
-### Interactive Experience & Impact *(Click to Expand)*
+### Live Telemetry & Tech Pipeline
+
+<div align="center">
+  <img src="./assets/skills-telemetry.svg" width="100%" alt="Skills Telemetry & Pipeline" />
+</div>
+
+---
+
+### Flagship Products *(Animated Live Preview)*
+
+<div align="center">
+  <a href="https://yudafh.vercel.app/#proyek">
+    <img src="./assets/projects-showcase.svg" width="100%" alt="Sahamara, PintuAcara & LungSphere Showcase" />
+  </a>
+</div>
 
 <details open>
+<summary><strong>Click to Explore All Projects & Live Links</strong></summary>
+<br/>
+
+| Product / Repo | What It Solves & My Role | Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Sahamara** | Retail investor analytics SaaS (Stock Screener, Foreign-Flow & automated IG/TikTok content pipeline) | `Next.js` `Python` `PostgreSQL` `Make.com` | [Live](https://sahamara.com) &bull; [Repo](https://github.com/YudaFH/sahamara-public) |
+| **PintuAcara** | End-to-end event SaaS automating registration, payments, **real-time QR check-in** & e-certificates | `Laravel` `PHP` `MySQL` | [Live](https://pintuacara.com) &bull; [Repo](https://github.com/YudaFH/pintuacara-public) |
+| **LungSphere** | AI respiratory sound screening (`.wav`) using **DWT-MFCC** & **SVM/Random Forest** (25-fold CV) | `Python` `Flask` `Scikit-learn` | [Live](https://lungsphere.vercel.app) &bull; [Repo](https://github.com/YudaFH/lungsphere) |
+| **Stukka Digital** | Event operations, crew scheduling, biometric attendance & financial margin admin system | `Laravel` `PHP` `MySQL` | [Live](https://stukkadigital.com) &bull; [Repo](https://github.com/YudaFH/stukka) |
+| **Web Portofolio** | Interactive editorial portfolio with live Looker Studio embed, interactive Power BI charts & animated UI | `HTML/CSS` `JavaScript` `Python` | [Live](https://yudafh.vercel.app) &bull; [Repo](https://github.com/YudaFH/web-portofolio) |
+
+</details>
+
+---
+
+### Interactive Experience & Impact *(Click to Expand)*
+
+<details>
 <summary><strong>1. Bursa Efek Indonesia (IDX) — Market Development Intern (Jul 2026 – Present)</strong></summary>
 <br/>
 
@@ -58,19 +83,7 @@
 
 ---
 
-### Featured Products & Repositories
-
-| Product / Repo | What It Solves & My Role | Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **Sahamara** | Retail investor analytics SaaS (Stock Screener, Foreign-Flow & automated IG/TikTok content pipeline) | `Next.js` `Python` `PostgreSQL` `Make.com` | [Live](https://sahamara.com) &bull; [Repo](https://github.com/YudaFH/sahamara-public) |
-| **PintuAcara** | End-to-end event SaaS automating registration, payments, **real-time QR check-in** & e-certificates | `Laravel` `PHP` `MySQL` | [Live](https://pintuacara.com) &bull; [Repo](https://github.com/YudaFH/pintuacara-public) |
-| **LungSphere** | AI respiratory sound screening (`.wav`) using **DWT-MFCC** & **SVM/Random Forest** (25-fold CV) | `Python` `Flask` `Scikit-learn` | [Live](https://lungsphere.vercel.app) &bull; [Repo](https://github.com/YudaFH/lungsphere) |
-| **Stukka Digital** | Event operations, crew scheduling, biometric attendance & financial margin admin system | `Laravel` `PHP` `MySQL` | [Live](https://stukkadigital.com) &bull; [Repo](https://github.com/YudaFH/stukka) |
-| **Web Portofolio** | Interactive editorial portfolio with live Looker Studio embed, interactive Power BI charts & animated UI | `HTML/CSS` `JavaScript` `Python` | [Live](https://yudafh.vercel.app) &bull; [Repo](https://github.com/YudaFH/web-portofolio) |
-
----
-
-### Interactive Contribution Snake
+### Contribution Snake & Live Analytics
 
 <div align="center">
   <picture>
@@ -80,10 +93,6 @@
   </picture>
 </div>
 
----
-
-### GitHub Analytics & Streak
-
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=YudaFH&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FDE047&icon_color=4ADE80&text_color=E7E5E4" alt="GitHub Stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=YudaFH&theme=tokyonight&hide_border=true&background=0D1117&ring=4ADE80&fire=C94A29&currStreakLabel=FDE047" alt="GitHub Streak" />
@@ -91,10 +100,4 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YudaFH&bg_color=0D1117&color=FDE68A&line=4ADE80&point=C94A29&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3B2E,55:0F766E,100:C94A29&height=95&section=footer" width="100%" alt="Footer Wave" />
 </div>
