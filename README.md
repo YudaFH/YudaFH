@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://yudafh.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2800&pause=900&color=FDE047&center=true&vCenter=true&width=680&lines=Ex-Intern+at+Indonesia+Stock+Exchange+(IDX)+%26+PT+Bayer+Indonesia;BI+Dashboards+(Power+BI+%26+Looker+Studio)+%2B+Excel+VBA+Automation;Building+Full-Stack+SaaS+(Next.js%2C+Laravel)+%26+Applied+AI+(Python)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2800&pause=900&color=C94A29&center=true&vCenter=true&width=680&lines=Ex-Intern+at+Indonesia+Stock+Exchange+(IDX)+%26+PT+Bayer+Indonesia;BI+Dashboards+(Power+BI+%26+Looker+Studio)+%2B+Excel+VBA+Automation;Building+Full-Stack+SaaS+(Next.js%2C+Laravel)+%26+Applied+AI+(Python)" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -69,6 +69,6 @@
 ### GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YudaFH&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FDE047&icon_color=4ADE80&text_color=E7E5E4" alt="YudaFH GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YudaFH&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FDE047&text_color=E7E5E4" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YudaFH&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C94A29&icon_color=4ADE80&text_color=E7E5E4" alt="YudaFH GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YudaFH&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C94A29&text_color=E7E5E4" alt="Top Languages" />
 </div>
