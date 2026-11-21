@@ -2,7 +2,7 @@
 
 <!-- 1. Custom Animated SVG Hero + Live Terminal -->
 <a href="https://yudafh.vercel.app/">
-  <img src="./assets/hero-banner.svg" width="100%" alt="Yuda Farid Habibie — Data Analyst, Workflow Automation & Full-Stack Developer" />
+  <img src="./assets/hero-banner.svg?v=vibrant2" width="100%" alt="Yuda Farid Habibie — Data Analyst, Workflow Automation & Full-Stack Developer" />
 </a>
 
 <br/><br/>
@@ -19,7 +19,7 @@
 ### Live Telemetry & Tech Pipeline
 
 <div align="center">
-  <img src="./assets/skills-telemetry.svg" width="100%" alt="Skills Telemetry & Pipeline" />
+  <img src="./assets/skills-telemetry.svg?v=vibrant2" width="100%" alt="Skills Telemetry & Pipeline" />
 </div>
 
 ---
@@ -28,7 +28,7 @@
 
 <div align="center">
   <a href="https://yudafh.vercel.app/#proyek">
-    <img src="./assets/projects-showcase.svg" width="100%" alt="Sahamara, PintuAcara & LungSphere Showcase" />
+    <img src="./assets/projects-showcase.svg?v=vibrant2" width="100%" alt="Sahamara, PintuAcara & LungSphere Showcase" />
   </a>
 </div>
 
