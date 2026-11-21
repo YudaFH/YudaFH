@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 185" width="100%" height="185">
+  <!-- Card 1: Sahamara Animated Stock Chart -->
+  <g transform="translate(0, 0)">
+    <rect width="320" height="185" rx="12" fill="#0D1117" stroke="#10B981" stroke-width="2"/>
+    <text x="18" y="28" font-family="monospace" font-size="11" font-weight="700" fill="#4ADE80">FINTECH SAAS • FOUNDER</text>
+    <text x="18" y="54" font-family="sans-serif" font-size="20" font-weight="800" fill="#FFF">Sahamara</text>
+    <text x="18" y="74" font-family="sans-serif" font-size="12" fill="#94A3B8">Stock Screener &amp; Foreign-Flow</text>
+    <polyline points="18,145 58,132 98,138 138,112 178,120 218,95 258,104 298,78" fill="none" stroke="#4ADE80" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="360" stroke-dashoffset="360">
+      <animate attributeName="stroke-dashoffset" values="360;0;0" dur="3.2s" repeatCount="indefinite"/>
+    </polyline>
+    <circle cx="298" cy="78" r="5" fill="#FDE047">
+      <animate attributeName="opacity" values="0;1;1" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="18" y="168" font-family="monospace" font-size="10.5" fill="#FDE68A">Next.js • Python • PostgreSQL</text>
+  </g>
+
+  <!-- Card 2: PintuAcara Animated QR Scanner Laser -->
+  <g transform="translate(340, 0)">
+    <rect width="320" height="185" rx="12" fill="#0D1117" stroke="#FDE047" stroke-width="2"/>
+    <text x="18" y="28" font-family="monospace" font-size="11" font-weight="700" fill="#FDE047">EVENT SAAS • BI FINALIST</text>
+    <text x="18" y="54" font-family="sans-serif" font-size="20" font-weight="800" fill="#FFF">PintuAcara</text>
+    <text x="18" y="74" font-family="sans-serif" font-size="12" fill="#94A3B8">Smart Ticketing &amp; QR Check-In</text>
+    <!-- Mini QR + Animated Laser -->
+    <rect x="18" y="90" width="54" height="54" rx="6" fill="#161B22" stroke="#FDE047" stroke-width="1.2"/>
+    <rect x="26" y="98" width="14" height="14" fill="#FFF"/><rect x="50" y="98" width="14" height="14" fill="#FFF"/>
+    <rect x="26" y="122" width="14" height="14" fill="#FFF"/><rect x="48" y="120" width="8" height="8" fill="#4ADE80"/>
+    <line x1="20" y1="95" x2="70" y2="95" stroke="#4ADE80" stroke-width="2.5">
+      <animate attributeName="y1" values="95;138;95" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="95;138;95" dur="2s" repeatCount="indefinite"/>
+    </line>
+    <text x="86" y="114" font-family="monospace" font-size="11.5" fill="#4ADE80">✓ QR Verified Real-Time</text>
+    <text x="86" y="132" font-family="monospace" font-size="11" fill="#D6D3D1">Auto E-Certificate Ready</text>
+    <text x="18" y="168" font-family="monospace" font-size="10.5" fill="#FDE68A">Laravel • PHP • MySQL</text>
+  </g>
+
+  <!-- Card 3: LungSphere Animated Respiratory Wave -->
+  <g transform="translate(680, 0)">
+    <rect width="320" height="185" rx="12" fill="#0D1117" stroke="#C94A29" stroke-width="2"/>
+    <text x="18" y="28" font-family="monospace" font-size="11" font-weight="700" fill="#FB923C">APPLIED AI • TOP 10 MS AI</text>
+    <text x="18" y="54" font-family="sans-serif" font-size="20" font-weight="800" fill="#FFF">LungSphere</text>
+    <text x="18" y="74" font-family="sans-serif" font-size="12" fill="#94A3B8">AI Breath-Sound Screening</text>
+    <path d="M 18 118 Q 48 86 78 118 T 138 118 T 198 118 T 258 118 T 302 118" fill="none" stroke="#38BDF8" stroke-width="3">
+      <animate attributeName="d" values="M 18 118 Q 48 86 78 118 T 138 118 T 198 118 T 258 118 T 302 118; M 18 118 Q 48 148 78 118 T 138 118 T 198 118 T 258 118 T 302 118; M 18 118 Q 48 86 78 118 T 138 118 T 198 118 T 258 118 T 302 118" dur="2.2s" repeatCount="indefinite"/>
+    </path>
+    <text x="18" y="168" font-family="monospace" font-size="10.5" fill="#FDE68A">Python • Flask • DWT-MFCC + SVM</text>
+  </g>
+</svg>
