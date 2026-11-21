@@ -2,7 +2,7 @@
 
 <!-- 1. Custom Animated SVG Hero + Live Terminal -->
 <a href="https://yudafh.vercel.app/">
-  <img src="./assets/hero-banner.svg?v=vibrant2" width="100%" alt="Yuda Farid Habibie — Data Analyst, Workflow Automation & Full-Stack Developer" />
+  <img src="./assets/hero-banner.svg?v=vibrant3" width="100%" alt="Yuda Farid Habibie — Data Analyst, Workflow Automation & Full-Stack Developer" />
 </a>
 
 <br/><br/>
