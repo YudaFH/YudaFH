@@ -8,7 +8,7 @@
 <br/><br/>
 
 [![Interactive Portfolio](https://img.shields.io/badge/Interactive_Portfolio-yudafh.vercel.app-0B3B2E?style=for-the-badge&logo=vercel&logoColor=FDE047)](https://yudafh.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuda-farid-habibie-43201a352)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yudafaridhabibie)
 [![Email](https://img.shields.io/badge/Email-Hire_Me-C94A29?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yudafaridhabibie@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%40yudafh__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yudafh_)
 
